@@ -1,0 +1,9 @@
+banana
+milk
+potato
+tomato
+carrot
+candy
+bread
+
+egg
