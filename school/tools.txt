@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Greetings from my computer
+=======
+Greetings from GitHub
+>>>>>>> a466a95a6a9695b996ac3522c97c5a4618c2980f
 This is GitHub
