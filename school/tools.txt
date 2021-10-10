@@ -1,2 +1,2 @@
-GitHub greets you
+Greetings from GitHub
 This is GitHub
